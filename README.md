@@ -13,4 +13,7 @@
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
 </div>
 <br/><br/>
+
 Sou apaixonado por técnologia, em constante desenvolvimento e buscando sempre aprender mais!
+
+![Snake animation](https://github.com/Lets-DavIt/Lets-DavIt/blob/output/github-contribution-grid-snake.svg)
