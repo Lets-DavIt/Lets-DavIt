@@ -8,7 +8,7 @@
   
 
 
-<p align="center"><img src='img/print-home.png' alt='print'></p>
+<p align="center"><img src='./src/img/home.png' alt='print'></p>
 
 
 
