@@ -6,7 +6,7 @@
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
   
 
-<p align="center"><img src='./src/img/home.png' alt='print'></p>
+<p align="center"><img src='./src/img/print-home.png' alt='print'></p>
 
 
 
