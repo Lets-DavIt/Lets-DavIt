@@ -2,8 +2,7 @@
 <h3 align="center">A passionate web/mobile developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lets-davit&label=Profile%20views&color=0e75b6&style=flat" alt="lets-davit" /> </p>
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1742428800&v=beta&t=jQm9ku2gD4blF6vAfl8l51gHklHF2LuMqWMTa5EGJAk" alt="developer gif"/>
-
+<p align="right"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1742428800&v=beta&t=jQm9ku2gD4blF6vAfl8l51gHklHF2LuMqWMTa5EGJAk" alt="developer gif" width="300px"/>
 
 - 🌱 I’m currently learning **how to improve my soft and hard skills**
 
