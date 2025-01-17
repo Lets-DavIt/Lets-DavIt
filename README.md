@@ -1,4 +1,4 @@
-<img align="right" src="[https://i.gifer.com/g32K.mp4](https://i.redd.it/v9w9ygdt80qc1.gif)" alt="developer gif" width="cover"/>
+<img align="right" src="https://i.redd.it/7qxgnfdt80qc1.gif" alt="developer gif" width="cover"/>
 
 <h1 align="center">Hi 👋, I'm Davi Souza</h1>
 <h3 align="center">A passionate web/mobile developer from Brazil</h3>
