@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi Souza</h1>
 <h3 align="center">A passionate web/mobile developer from Brazil</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lets-davit&label=Profile%20views&color=0e75b6&style=flat" alt="lets-davit" /> </p>
-<p align="right"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1742428800&v=beta&t=jQm9ku2gD4blF6vAfl8l51gHklHF2LuMqWMTa5EGJAk" alt="developer gif" width="300px" style="margin-top: 40px"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lets-davit&label=Profile%20views&color=0e75b6&style=flat" alt="lets-davit" /> </p>
 
 - 🌱 I’m currently learning **how to improve my soft and hard skills**
 
@@ -13,6 +12,7 @@
 - ⚡ Fun fact **I like to do handstands**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" src="https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1742428800&v=beta&t=jQm9ku2gD4blF6vAfl8l51gHklHF2LuMqWMTa5EGJAk" alt="developer gif" width="400px"/>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/davi-souza-634452216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/davi-souza-634452216" height="30" width="40" /></a>
 </p>
