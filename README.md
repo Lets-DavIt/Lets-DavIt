@@ -4,16 +4,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lets-davit&label=Profile%20views&color=0e75b6&style=flat" alt="lets-davit" /> </p>
 
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1 align="center">Hi 👋, I'm Davi Souza</h1>
+    <h3 align="center">A passionate web/mobile developer from Brazil</h3>
+    <p>🌱 I’m currently learning <strong>how to improve my soft and hard skills</strong></p>
+    <p>💬 Ask me about <strong>Flutter, React, Kotlin, Angular etc</strong></p>
+    <p>📫 How to reach me <strong>davi.231souza@gmail.com</strong></p>
+    <p>⚡ Fun fact <strong>I like to do handstands</strong></p>
+  </div>
+  <div>
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1742428800&v=beta&t=jQm9ku2gD4blF6vAfl8l51gHklHF2LuMqWMTa5EGJAk" alt="GIF description" width="300">
+  </div>
+</div>
 
-- 🌱 I’m currently learning **how to improve my soft and hard skills**
-
-- 💬 Ask me about **Flutter, React, Kotlin, Angular etc**
-
-- 📫 How to reach me **davi.231souza@gmail.com**
-
-- ⚡ Fun fact **I like to do handstands**
-
-<img src="https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1742428800&v=beta&t=jQm9ku2gD4blF6vAfl8l51gHklHF2LuMqWMTa5EGJAk" alt="GIF description" width="500"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
