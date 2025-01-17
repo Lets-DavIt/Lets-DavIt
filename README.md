@@ -1,8 +1,10 @@
+<img align="right" src="[https://i.gifer.com/g32K.mp4](https://i.redd.it/v9w9ygdt80qc1.gif)" alt="developer gif" width="cover"/>
+
 <h1 align="center">Hi 👋, I'm Davi Souza</h1>
 <h3 align="center">A passionate web/mobile developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lets-davit&label=Profile%20views&color=0e75b6&style=flat" alt="lets-davit" /> </p>
-<img align="right" src="https://i.gifer.com/g32K.mp4" alt="developer gif" width="400px"/>
+<img align="right" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" alt="developer gif" width="400px"/>
 
 - 🌱 I’m currently learning **how to improve my soft and hard skills**
 
